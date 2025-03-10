@@ -1,0 +1,5 @@
+Train Dataset Shape: (171792, 79) 
+Test Dataset Shape: (84615, 79) 
+Combined Test Dataset Shape: (94615, 79)
+ 
+This is with subset_percentage = 0.1 and the test data being 33%
