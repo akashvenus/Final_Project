@@ -2,6 +2,7 @@ READ this before executing the files:
 
 - create a virtual environment for Python 3.10
 - pip install the requirements.txt
+- link to dataset: https://www.kaggle.com/datasets/chethuhn/network-intrusion-dataset
 
 Main code for running models are under:
 
