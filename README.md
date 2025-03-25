@@ -47,3 +47,5 @@ Note:
 -> Make sure all the pickled models are stored inside the models folder
 
 -> All the weights and pickled scalers are stored inside the respective set folder
+
+GitHub repo: https://github.com/akashvenus/Final_Project
