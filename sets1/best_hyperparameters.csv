@@ -1,5 +1,5 @@
 ,Model,Best Parameters
-0,XGB,{'n_estimators': 50}
+0,XGB,{'n_estimators': 100}
 1,SVC,{'C': 10}
 2,KNN,{'n_neighbors': 3}
 3,LGBM,{'n_estimators': 100}
